@@ -8,9 +8,7 @@ set(SRC_MAIN
 
 set(SRC_ADDIT
     source/example.cpp
-    source/example.hpp
     source/move_me_out.cpp
-    source/move_me_out.hpp
 )
 
 add_executable(hello_world 
